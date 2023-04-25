@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0 23px;
+
+}
+.container{
+    margin:0 auto;
+    background-color: rgb(202, 212, 65);
+    width: 1140px;
+    max-width: 100%;
+    text-align: center;
+}
+ h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+ }
